@@ -1,0 +1,13 @@
+Package: hello-bye-bye
+Version: 1.0
+Architecture: all
+Maintainer: Your Name <your.email@example.com>
+Filename: ./hello-bye-bye.deb
+Size: 610
+MD5sum: 46bd93477f20d60336b8dda04b83e095
+SHA1: 2eb5fb7e0a5b8463eb3aec6a75ffc0c427adfef2
+SHA256: 7240a20384c77b23728bc857440b13ff774aa9a4fc4ac698d3147723ad27e593
+Section: base
+Priority: optional
+Description: Prints Hello World
+
